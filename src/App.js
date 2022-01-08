@@ -8,7 +8,7 @@ import db from './firebase';
 
 //     const querySnapshot = await getDocs(collection(db, "formdata"));
 //     querySnapshot.forEach((doc) => {
-//         // doc.data() is never undefined for query doc snapshots
+//         // doc.data() is never undefined for query doc snapshot
 //         console.log(doc.id, " => ", doc.data());
 
 //     });
